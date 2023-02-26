@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=PT+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=PT+Sans:wght@400;700&display=swap');
+
+.name {
+    position: absolute;
+    width: 257px;
+    height: 41px;
+    left: 58px;
+    top: 0px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+
+}
+
+.logo {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 20px;
+    top: 25px;
+
+}
+
+.nav {
+    list-style: none;
+}
+
+.contact {
+    position: absolute;
+    width: 98px;
+    height: 31px;
+    left: 1480px;
+    top: 25px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.working {
+    position: absolute;
+    width: 76px;
+    height: 31px;
+    left: 1354px;
+    top: 25px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.home {
+    position: absolute;
+    width: 81px;
+    height: 31px;
+    left: 1223px;
+    top: 25px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+bg {
+    position: absolute;
+    bottom: 100px;
+
+}
+
+
+
+.colortext {
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    width: 462px;
+    height: 39px;
+    left: 385px;
+    top: 233px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.zag {
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    width: 462px;
+    height: 39px;
+    left: 68px;
+    top: 233px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.people {
+    position: absolute;
+    width: 61px;
+    height: 61px;
+    left: 10px;
+    top: 233px;
+
+}
+
+.opis{
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+width: 590px;
+height: 136px;
+left: 70px;
+top: 299px;
+font-size:28px;
+font-weight:400;
+}
+
+.approved{
+    position: absolute;
+width: 590px;
+height: 112px;
+left: 65px;
+top: 523px;
+}
+
+.group1{
+    position: absolute;
+width: 300px;
+height: 300px;
+left: 340px;
+top: 809px;
+}
+
+.group2{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 760px;
+    top: 809px;
+}
+
+.group3{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 1180px;
+    top: 809px;
+    
+}
+
+.bg2{
+    position: absolute;
+    width: 1916px;
+    height: 810px;
+    left: 0px;
+    top: 1250px;
+}
+
+.da{
+    position: absolute;
+width: 1076px;
+height: 54px;
+left: 380px;
+top: 1263px;
+font-family: 'Montserrat';
+font-weight: 400;
+font-size: 22px;
+
+
+}
+
+.net{
+    position: absolute;
+width: 1141px;
+height: 54px;
+left: 380px;
+top: 1336px;
+
+font-family: 'Montserrat';
+font-weight: 400;
+font-size: 22px;
+
+
+}
+
+.chel{
+    position: absolute;
+width: 350px;
+height: 631px;
+left: 337px;
+top: 1400px;
+}
+
+.yes{
+    position: absolute;
+    width: 682px;
+    height: 54px;
+    left: 815px;
+    top: 1565px;
+    
+    font-family: 'Montserrat';
+
+    font-weight: 400;
+    font-size: 22px;
+
+    
+}
+
+.no{
+    position: absolute;
+    width: 643px;
+    height: 108px;
+    left: 815px;
+    top: 1679px;
+    
+    font-family: 'Montserrat';
+ 
+    font-weight: 400;
+    font-size: 22px;
+  
+}
+
+.ney{
+    height:810px;
+}
+
+.liu{
+    position: absolute;
+width: 1920px;
+height: 58px;
+left: 0px;
+top: 1151px;
+
+}
